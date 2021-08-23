@@ -1,0 +1,1 @@
+web: gunicorn TalentSearchProject.wsgi --log-file -
